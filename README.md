@@ -1,5 +1,5 @@
 # Notebooks
-This is my repo for my projects, both finished and in-progress. Here are the ones you should check out:
+This is the repo for my projects, both finished and in-progress. Here are the ones you should check out:
 
 # [Word2Vec News Analysis and Regression w/ XGBoost](https://github.com/chambliss/Notebooks/blob/master/Word2Vec_News_Analysis.ipynb)
 
