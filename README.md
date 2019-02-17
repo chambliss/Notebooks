@@ -4,7 +4,7 @@ This is the repo for my projects, both finished and in-progress. Here are the on
 # [Word2Vec News Analysis and Regression w/ XGBoost](https://github.com/chambliss/Notebooks/blob/master/Word2Vec_News_Analysis.ipynb)
 
 In this project, I:
-* Clean text data (news article titles and headlines from this paper)
+* Clean text data (news article titles and headlines from [this paper](https://www.researchgate.net/publication/322652391_Multi-Source_Social_Feedback_of_Online_News_Feeds))
 * Use Word2Vec to create word embeddings, and visualize word clusters on a t-SNE plot
 * Create several illuminating visualizations of popularity and sentiment using Seaborn
 * Do the same with titles, by averaging the word vectors in each title
