@@ -28,7 +28,7 @@ Includes:
 * Finding topic groups using the feature matrices
 * Clustering the documents themselves w/ K-Means
 
-# [Practicing SQL Queries using sqlite3 in Python](https://github.com/chambliss/Notebooks/blob/master/Practicing%20SQL%20Queries%20using%20sqlite3.ipynb)
+# [Practicing SQL Queries Using sqlite3 in Python](https://github.com/chambliss/Notebooks/blob/master/Practicing%20SQL%20Queries%20using%20sqlite3.ipynb)
 
 Recently, I had a take-home case study for an interview. Because I didn't have access to a database, but I wanted to be certain that my SQL queries were correct, I decided to create my own database using `sqlite3` and write a function to generate data similar to that which I'd be working with on the job. 
 
