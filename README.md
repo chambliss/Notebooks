@@ -10,7 +10,7 @@ In this project, I:
 * Do the same with titles, by averaging the word vectors in each title
 * Train a model based on title embedding, topic, time since publishing, and sentiment, in order to predict the article's popularity on each platform
 
-It is currently a work-in-progress, where I am currently exploring the use of model stacking to improve XGBoost's performance.
+It is a work-in-progress, and I am currently exploring the use of model stacking to improve XGBoost's performance.
 
 # [News EDA](https://github.com/chambliss/Notebooks/blob/master/News_Analysis_EDA.ipynb)
 
