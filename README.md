@@ -20,6 +20,9 @@ This project uses the same dataset. It includes:
 
 It is also a work-in-progress.
 
+# [Plots and Charts with Altair](https://github.com/chambliss/Notebooks/blob/master/Plots%20and%20Charts%20with%20Altair.ipynb)
+This is an exploration of Altair, a new plotting library built on top of Vega/Vega-Lite. It is a -very- nice interface for building modern-looking, interactive visualizations. Altair provides an idiomatic API, adding interactivity and tooltips into charts easily, intelligent interpretation of variables, swift within-call aggregations, no more subplotting headaches (chart concatenation is extremely straightforward), and more!  
+
 # [Topic Modeling and K-Means Clustering on arxiv Physics Papers](https://github.com/chambliss/Notebooks/blob/master/Classification%20and%20Topic%20Modeling%20Practice.ipynb)
 
 Includes:
