@@ -13,6 +13,12 @@ In this project, I:
 
 I am no longer actively working on this project, but future directions would include further feature engineering and perhaps joining external data to improve the accuracy of the popularity model.
 
+# [Cleaning, Analyzing, and Visualizing Survey Data in Python]
+(https://nbviewer.jupyter.org/github/chambliss/Notebooks/blob/master/Survey%20Data%20Blog%20Post.ipynb)
+At work, I've been analyzing a lot of survey data to produce insights for the teams who need it. I came up with a few tricks specific to producing massive amounts of charts and plots for answering various questions, particularly for working with the data as it is structured when exported from SurveyMonkey. Mostly, it involves some setup with pandas, then writing a few carefully-designed functions to output the desired results. Personally, I've found working on survey data to be quite fun, and I hope this tutorial is helpful to anyone out there who's looking to provide more value to their org while sharpening their Python data manipulation skills at the same time. Disclaimer: there may well be a better way of doing things; I wrote these to get the analysis done quickly, as I work in a fast-paced startup environment!
+
+Also, please note that the notebook uses randomly generated data, not data from my employer.
+
 # [Plots and Charts with Altair](https://nbviewer.jupyter.org/github/chambliss/Notebooks/blob/master/Plots%20and%20Charts%20with%20Altair.ipynb)
 This is an exploration of Altair, a new plotting library built on top of Vega/Vega-Lite. It is a -very- nice interface for building modern-looking, interactive visualizations. Altair provides an idiomatic API, adding interactivity and tooltips into charts easily, intelligent interpretation of variables, swift within-call aggregations, no more subplotting headaches (chart concatenation is extremely straightforward), and more!  
 
