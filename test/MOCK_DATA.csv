@@ -1,0 +1,502 @@
+id,What is your gender?,What is your age?,What was the most important consideration for you in choosing this product?,,,,How interested are you in the following benefits?,,,
+,gender,age,Location,Price,Positive Reviews,Personalization,Custom dashboard templates,SQL tutorials,More drag-and-drop features,More ready-made formulas
+1,Female,35,Location,NaN,NaN,NaN,Neutral,Very interested,Somewhat interested,Very interested
+2,Female,34,Location,NaN,NaN,NaN,Somewhat uninterested,Very interested,Neutral,Somewhat interested
+3,Female,19,NaN,Price,NaN,NaN,Somewhat uninterested,Neutral,Somewhat interested,Very interested
+4,Female,47,NaN,Price,NaN,NaN,Somewhat uninterested,Neutral,Neutral,Somewhat interested
+5,Female,40,NaN,Price,NaN,NaN,Not Interested at all,Somewhat interested,Not Interested at all,Not Interested at all
+6,Male,45,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Not Interested at all,Neutral,Neutral
+7,Male,36,NaN,Price,NaN,NaN,Not Interested at all,Somewhat interested,Somewhat interested,Somewhat uninterested
+8,Female,46,NaN,NaN,NaN,Personalization,Neutral,Somewhat uninterested,Very interested,Very interested
+9,Female,67,Location,NaN,NaN,NaN,Very interested,Not Interested at all,Somewhat uninterested,Somewhat interested
+10,Female,75,Location,NaN,NaN,NaN,Neutral,Neutral,Somewhat interested,Somewhat uninterested
+11,Female,58,NaN,NaN,NaN,Personalization,Somewhat uninterested,Somewhat interested,Very interested,Very interested
+12,Male,50,NaN,NaN,NaN,Personalization,Very interested,Very interested,Neutral,Somewhat interested
+13,Male,43,Location,NaN,NaN,NaN,Somewhat interested,Somewhat uninterested,Somewhat interested,Somewhat uninterested
+14,Female,60,NaN,NaN,Positive reviews,NaN,Not Interested at all,Somewhat uninterested,Neutral,Somewhat uninterested
+15,Male,60,NaN,NaN,NaN,Personalization,Somewhat uninterested,Neutral,Very interested,Neutral
+16,Male,22,Location,NaN,NaN,NaN,Very interested,Not Interested at all,Very interested,Somewhat uninterested
+17,Female,69,NaN,NaN,Positive reviews,NaN,Not Interested at all,Somewhat uninterested,Neutral,Somewhat uninterested
+18,Female,29,NaN,NaN,NaN,Personalization,Somewhat interested,Not Interested at all,Somewhat interested,Somewhat uninterested
+19,Male,31,NaN,Price,NaN,NaN,Neutral,Not Interested at all,Not Interested at all,Very interested
+20,Female,57,NaN,NaN,NaN,Personalization,Somewhat interested,Very interested,Neutral,Somewhat interested
+21,Male,73,NaN,NaN,NaN,Personalization,Not Interested at all,Somewhat interested,Neutral,Very interested
+22,Female,58,Location,NaN,NaN,NaN,Not Interested at all,Very interested,Somewhat interested,Very interested
+23,Male,30,Location,NaN,NaN,NaN,Somewhat interested,Somewhat interested,Very interested,Somewhat uninterested
+24,Male,37,NaN,NaN,NaN,Personalization,Not Interested at all,Somewhat uninterested,Somewhat interested,Somewhat uninterested
+25,Female,60,Location,NaN,NaN,NaN,Not Interested at all,Somewhat interested,Neutral,Somewhat uninterested
+26,Female,45,Location,NaN,NaN,NaN,Somewhat interested,Not Interested at all,Somewhat uninterested,Very interested
+27,Male,68,Location,NaN,NaN,NaN,Neutral,Somewhat uninterested,Somewhat uninterested,Somewhat uninterested
+28,Female,66,NaN,NaN,NaN,Personalization,Not Interested at all,Very interested,Neutral,Not Interested at all
+29,Female,68,NaN,NaN,NaN,Personalization,Neutral,Neutral,Somewhat interested,Somewhat interested
+30,Female,39,Location,NaN,NaN,NaN,Somewhat interested,Very interested,Somewhat uninterested,Neutral
+31,Male,72,NaN,NaN,NaN,Personalization,Somewhat interested,Somewhat interested,Somewhat uninterested,Somewhat interested
+32,Female,68,NaN,NaN,NaN,Personalization,Not Interested at all,Somewhat uninterested,Not Interested at all,Somewhat uninterested
+33,Male,50,NaN,Price,NaN,NaN,Not Interested at all,Very interested,Neutral,Very interested
+34,Female,63,NaN,NaN,Positive reviews,NaN,Very interested,Neutral,Not Interested at all,Not Interested at all
+35,Female,52,NaN,NaN,NaN,Personalization,Somewhat interested,Neutral,Somewhat interested,Neutral
+36,Female,38,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Somewhat interested,Neutral,Somewhat uninterested
+37,Female,37,NaN,NaN,NaN,Personalization,Neutral,Neutral,Not Interested at all,Neutral
+38,Female,75,NaN,NaN,Positive reviews,NaN,Very interested,Somewhat interested,Somewhat uninterested,Somewhat interested
+39,Female,73,Location,NaN,NaN,NaN,Somewhat uninterested,Not Interested at all,Not Interested at all,Somewhat uninterested
+40,Female,54,NaN,NaN,Positive reviews,NaN,Not Interested at all,Neutral,Not Interested at all,Somewhat uninterested
+41,Female,23,NaN,NaN,NaN,Personalization,Somewhat interested,Somewhat uninterested,Somewhat interested,Somewhat interested
+42,Female,22,NaN,NaN,Positive reviews,NaN,Not Interested at all,Very interested,Very interested,Somewhat uninterested
+43,Male,35,NaN,Price,NaN,NaN,Somewhat interested,Somewhat uninterested,Somewhat uninterested,Somewhat uninterested
+44,Female,47,NaN,NaN,NaN,Personalization,Neutral,Not Interested at all,Not Interested at all,Somewhat uninterested
+45,Male,25,NaN,NaN,Positive reviews,NaN,Not Interested at all,Neutral,Not Interested at all,Somewhat uninterested
+46,Male,74,NaN,Price,NaN,NaN,Neutral,Not Interested at all,Very interested,Somewhat uninterested
+47,Male,45,NaN,NaN,NaN,Personalization,Neutral,Somewhat uninterested,Somewhat interested,Neutral
+48,Female,71,NaN,NaN,NaN,Personalization,Neutral,Somewhat interested,Neutral,Somewhat uninterested
+49,Female,51,NaN,NaN,NaN,Personalization,Very interested,Somewhat interested,Very interested,Very interested
+50,Male,68,NaN,Price,NaN,NaN,Somewhat interested,Somewhat interested,Somewhat uninterested,Neutral
+51,Female,64,NaN,Price,NaN,NaN,Somewhat uninterested,Somewhat interested,Somewhat interested,Somewhat uninterested
+52,Female,51,Location,NaN,NaN,NaN,Somewhat interested,Very interested,Not Interested at all,Somewhat interested
+53,Female,58,NaN,NaN,Positive reviews,NaN,Very interested,Not Interested at all,Somewhat uninterested,Not Interested at all
+54,Female,41,NaN,NaN,NaN,Personalization,Somewhat uninterested,Somewhat interested,Neutral,Not Interested at all
+55,Female,28,NaN,Price,NaN,NaN,Not Interested at all,Somewhat interested,Very interested,Somewhat interested
+56,Male,19,NaN,NaN,Positive reviews,NaN,Somewhat interested,Somewhat uninterested,Somewhat uninterested,Neutral
+57,Male,19,Location,NaN,NaN,NaN,Neutral,Not Interested at all,Somewhat interested,Neutral
+58,Female,18,NaN,NaN,NaN,Personalization,Not Interested at all,Neutral,Neutral,Somewhat interested
+59,Male,49,NaN,NaN,NaN,Personalization,Somewhat interested,Somewhat uninterested,Very interested,Neutral
+60,Female,60,NaN,Price,NaN,NaN,Somewhat interested,Somewhat interested,Not Interested at all,Somewhat uninterested
+61,Male,70,NaN,Price,NaN,NaN,Neutral,Neutral,Not Interested at all,Neutral
+62,Male,72,Location,NaN,NaN,NaN,Neutral,Not Interested at all,Somewhat interested,Not Interested at all
+63,Female,59,NaN,NaN,NaN,Personalization,Somewhat interested,Somewhat uninterested,Somewhat interested,Neutral
+64,Male,58,NaN,NaN,NaN,Personalization,Not Interested at all,Somewhat interested,Somewhat interested,Neutral
+65,Male,62,NaN,NaN,NaN,Personalization,Somewhat uninterested,Not Interested at all,Somewhat interested,Somewhat interested
+66,Male,74,NaN,NaN,NaN,Personalization,Neutral,Somewhat interested,Somewhat interested,Not Interested at all
+67,Female,47,NaN,Price,NaN,NaN,Not Interested at all,Very interested,Neutral,Neutral
+68,Male,50,Location,NaN,NaN,NaN,Somewhat uninterested,Somewhat interested,Somewhat interested,Very interested
+69,Male,33,NaN,NaN,Positive reviews,NaN,Not Interested at all,Somewhat interested,Neutral,Somewhat interested
+70,Female,41,NaN,Price,NaN,NaN,Very interested,Neutral,Somewhat interested,Not Interested at all
+71,Female,51,Location,NaN,NaN,NaN,Neutral,Neutral,Not Interested at all,Very interested
+72,Male,74,NaN,Price,NaN,NaN,Not Interested at all,Not Interested at all,Very interested,Somewhat interested
+73,Female,25,Location,NaN,NaN,NaN,Neutral,Very interested,Somewhat uninterested,Somewhat uninterested
+74,Female,53,Location,NaN,NaN,NaN,Somewhat uninterested,Somewhat uninterested,Somewhat uninterested,Very interested
+75,Female,34,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Neutral,Very interested,Neutral
+76,Male,54,NaN,Price,NaN,NaN,Not Interested at all,Not Interested at all,Somewhat interested,Somewhat uninterested
+77,Female,39,NaN,NaN,Positive reviews,NaN,Somewhat interested,Neutral,Somewhat uninterested,Somewhat uninterested
+78,Female,59,Location,NaN,NaN,NaN,Somewhat interested,Not Interested at all,Very interested,Not Interested at all
+79,Female,51,NaN,NaN,Positive reviews,NaN,Neutral,Very interested,Somewhat interested,Neutral
+80,Female,22,NaN,NaN,Positive reviews,NaN,Somewhat interested,Somewhat interested,Not Interested at all,Somewhat uninterested
+81,Male,62,NaN,NaN,Positive reviews,NaN,Very interested,Not Interested at all,Neutral,Not Interested at all
+82,Male,41,NaN,NaN,NaN,Personalization,Somewhat uninterested,Neutral,Neutral,Very interested
+83,Female,69,NaN,NaN,Positive reviews,NaN,Neutral,Not Interested at all,Very interested,Very interested
+84,Male,68,NaN,Price,NaN,NaN,Somewhat uninterested,Very interested,Somewhat interested,Not Interested at all
+85,Male,27,NaN,NaN,Positive reviews,NaN,Neutral,Somewhat interested,Very interested,Neutral
+86,Male,43,Location,NaN,NaN,NaN,Not Interested at all,Somewhat interested,Neutral,Somewhat uninterested
+87,Female,69,Location,NaN,NaN,NaN,Somewhat uninterested,Somewhat uninterested,Neutral,Very interested
+88,Female,42,NaN,NaN,NaN,Personalization,Not Interested at all,Neutral,Somewhat interested,Not Interested at all
+89,Female,67,NaN,Price,NaN,NaN,Not Interested at all,Neutral,Not Interested at all,Somewhat interested
+90,Female,53,NaN,NaN,Positive reviews,NaN,Somewhat interested,Not Interested at all,Neutral,Neutral
+91,Female,28,NaN,Price,NaN,NaN,Somewhat uninterested,Somewhat interested,Not Interested at all,Somewhat uninterested
+92,Male,53,NaN,Price,NaN,NaN,Somewhat interested,Neutral,Very interested,Somewhat uninterested
+93,Male,55,NaN,Price,NaN,NaN,Very interested,Very interested,Somewhat uninterested,Very interested
+94,Female,66,Location,NaN,NaN,NaN,Very interested,Very interested,Neutral,Somewhat uninterested
+95,Female,28,NaN,NaN,NaN,Personalization,Neutral,Neutral,Somewhat interested,Somewhat interested
+96,Male,53,Location,NaN,NaN,NaN,Somewhat uninterested,Somewhat uninterested,Somewhat interested,Somewhat interested
+97,Female,48,NaN,Price,NaN,NaN,Not Interested at all,Not Interested at all,Very interested,Neutral
+98,Male,19,NaN,Price,NaN,NaN,Not Interested at all,Somewhat interested,Neutral,Somewhat uninterested
+99,Male,49,NaN,NaN,NaN,Personalization,Not Interested at all,Somewhat uninterested,Not Interested at all,Somewhat uninterested
+100,Male,37,Location,NaN,NaN,NaN,Neutral,Somewhat interested,Somewhat uninterested,Somewhat interested
+101,Female,60,NaN,Price,NaN,NaN,Not Interested at all,Very interested,Very interested,Very interested
+102,Female,18,NaN,NaN,Positive reviews,NaN,Not Interested at all,Not Interested at all,Neutral,Somewhat interested
+103,Female,24,NaN,NaN,Positive reviews,NaN,Neutral,Neutral,Somewhat uninterested,Very interested
+104,Female,52,NaN,NaN,Positive reviews,NaN,Neutral,Somewhat uninterested,Very interested,Neutral
+105,Female,73,NaN,NaN,Positive reviews,NaN,Very interested,Neutral,Very interested,Not Interested at all
+106,Male,67,NaN,Price,NaN,NaN,Not Interested at all,Not Interested at all,Very interested,Neutral
+107,Female,50,NaN,NaN,NaN,Personalization,Neutral,Somewhat interested,Very interested,Somewhat uninterested
+108,Male,21,NaN,NaN,NaN,Personalization,Somewhat uninterested,Not Interested at all,Somewhat uninterested,Very interested
+109,Male,23,NaN,NaN,NaN,Personalization,Neutral,Somewhat uninterested,Somewhat uninterested,Very interested
+110,Male,37,NaN,NaN,NaN,Personalization,Somewhat interested,Very interested,Somewhat interested,Somewhat interested
+111,Female,64,NaN,Price,NaN,NaN,Somewhat interested,Not Interested at all,Neutral,Somewhat interested
+112,Female,50,NaN,Price,NaN,NaN,Not Interested at all,Very interested,Not Interested at all,Neutral
+113,Female,61,NaN,NaN,NaN,Personalization,Somewhat interested,Very interested,Somewhat uninterested,Somewhat uninterested
+114,Female,35,NaN,NaN,NaN,Personalization,Neutral,Very interested,Not Interested at all,Very interested
+115,Female,64,Location,NaN,NaN,NaN,Not Interested at all,Neutral,Somewhat interested,Not Interested at all
+116,Male,72,NaN,Price,NaN,NaN,Somewhat uninterested,Somewhat interested,Not Interested at all,Not Interested at all
+117,Female,52,NaN,Price,NaN,NaN,Somewhat uninterested,Somewhat interested,Neutral,Somewhat uninterested
+118,Male,24,Location,NaN,NaN,NaN,Somewhat interested,Not Interested at all,Somewhat uninterested,Neutral
+119,Male,45,Location,NaN,NaN,NaN,Not Interested at all,Somewhat interested,Somewhat interested,Very interested
+120,Female,21,NaN,NaN,NaN,Personalization,Neutral,Very interested,Very interested,Somewhat uninterested
+121,Male,45,NaN,Price,NaN,NaN,Neutral,Not Interested at all,Neutral,Not Interested at all
+122,Female,47,NaN,Price,NaN,NaN,Somewhat uninterested,Not Interested at all,Somewhat interested,Neutral
+123,Male,43,NaN,Price,NaN,NaN,Somewhat interested,Very interested,Somewhat uninterested,Neutral
+124,Male,42,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Somewhat interested,Somewhat uninterested,Somewhat interested
+125,Male,64,Location,NaN,NaN,NaN,Neutral,Not Interested at all,Not Interested at all,Neutral
+126,Male,72,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Not Interested at all,Somewhat interested,Very interested
+127,Female,60,NaN,Price,NaN,NaN,Very interested,Neutral,Not Interested at all,Not Interested at all
+128,Male,65,NaN,NaN,NaN,Personalization,Not Interested at all,Neutral,Somewhat uninterested,Neutral
+129,Female,34,Location,NaN,NaN,NaN,Not Interested at all,Somewhat uninterested,Very interested,Somewhat uninterested
+130,Female,36,Location,NaN,NaN,NaN,Somewhat interested,Very interested,Neutral,Somewhat uninterested
+131,Female,44,NaN,Price,NaN,NaN,Not Interested at all,Neutral,Somewhat interested,Somewhat interested
+132,Female,30,NaN,NaN,Positive reviews,NaN,Very interested,Very interested,Neutral,Not Interested at all
+133,Female,75,NaN,NaN,Positive reviews,NaN,Neutral,Neutral,Not Interested at all,Neutral
+134,Male,39,NaN,NaN,NaN,Personalization,Neutral,Very interested,Neutral,Somewhat interested
+135,Male,58,NaN,Price,NaN,NaN,Somewhat uninterested,Not Interested at all,Very interested,Very interested
+136,Male,47,NaN,NaN,NaN,Personalization,Somewhat interested,Neutral,Neutral,Somewhat interested
+137,Female,30,NaN,NaN,NaN,Personalization,Neutral,Somewhat interested,Not Interested at all,Not Interested at all
+138,Male,21,NaN,NaN,Positive reviews,NaN,Neutral,Very interested,Neutral,Not Interested at all
+139,Male,60,NaN,NaN,Positive reviews,NaN,Somewhat interested,Somewhat interested,Very interested,Very interested
+140,Female,18,NaN,Price,NaN,NaN,Very interested,Neutral,Very interested,Not Interested at all
+141,Male,22,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Somewhat interested,Somewhat uninterested,Somewhat interested
+142,Male,33,Location,NaN,NaN,NaN,Very interested,Neutral,Neutral,Not Interested at all
+143,Female,43,NaN,NaN,NaN,Personalization,Not Interested at all,Very interested,Neutral,Neutral
+144,Male,48,NaN,NaN,NaN,Personalization,Neutral,Not Interested at all,Very interested,Somewhat interested
+145,Male,36,NaN,NaN,Positive reviews,NaN,Somewhat interested,Very interested,Very interested,Very interested
+146,Male,70,Location,NaN,NaN,NaN,Not Interested at all,Very interested,Not Interested at all,Not Interested at all
+147,Male,20,Location,NaN,NaN,NaN,Not Interested at all,Neutral,Somewhat uninterested,Very interested
+148,Male,53,NaN,Price,NaN,NaN,Somewhat interested,Not Interested at all,Somewhat interested,Somewhat interested
+149,Male,75,NaN,NaN,Positive reviews,NaN,Not Interested at all,Very interested,Somewhat interested,Somewhat interested
+150,Female,34,NaN,NaN,Positive reviews,NaN,Neutral,Somewhat interested,Neutral,Neutral
+151,Male,64,NaN,NaN,NaN,Personalization,Somewhat uninterested,Neutral,Somewhat interested,Somewhat uninterested
+152,Male,35,NaN,NaN,NaN,Personalization,Very interested,Somewhat uninterested,Somewhat uninterested,Not Interested at all
+153,Male,30,Location,NaN,NaN,NaN,Not Interested at all,Not Interested at all,Somewhat interested,Not Interested at all
+154,Male,21,Location,NaN,NaN,NaN,Neutral,Somewhat uninterested,Neutral,Not Interested at all
+155,Male,59,NaN,NaN,NaN,Personalization,Somewhat uninterested,Not Interested at all,Neutral,Neutral
+156,Female,69,Location,NaN,NaN,NaN,Not Interested at all,Neutral,Not Interested at all,Somewhat interested
+157,Male,72,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Somewhat uninterested,Somewhat interested,Somewhat interested
+158,Female,61,Location,NaN,NaN,NaN,Very interested,Somewhat interested,Not Interested at all,Very interested
+159,Male,34,NaN,Price,NaN,NaN,Somewhat interested,Somewhat uninterested,Not Interested at all,Neutral
+160,Male,52,NaN,NaN,Positive reviews,NaN,Not Interested at all,Somewhat interested,Not Interested at all,Not Interested at all
+161,Female,42,Location,NaN,NaN,NaN,Not Interested at all,Not Interested at all,Not Interested at all,Neutral
+162,Male,41,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Somewhat uninterested,Somewhat interested,Somewhat interested
+163,Male,22,NaN,NaN,Positive reviews,NaN,Not Interested at all,Not Interested at all,Very interested,Somewhat uninterested
+164,Male,57,NaN,NaN,Positive reviews,NaN,Very interested,Very interested,Neutral,Somewhat uninterested
+165,Male,41,NaN,NaN,Positive reviews,NaN,Very interested,Neutral,Very interested,Neutral
+166,Male,64,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Not Interested at all,Somewhat interested,Not Interested at all
+167,Female,48,Location,NaN,NaN,NaN,Somewhat uninterested,Somewhat uninterested,Somewhat uninterested,Not Interested at all
+168,Male,63,NaN,NaN,NaN,Personalization,Neutral,Neutral,Very interested,Somewhat uninterested
+169,Male,31,NaN,Price,NaN,NaN,Very interested,Somewhat uninterested,Somewhat uninterested,Not Interested at all
+170,Male,29,NaN,NaN,Positive reviews,NaN,Not Interested at all,Very interested,Very interested,Not Interested at all
+171,Male,33,Location,NaN,NaN,NaN,Very interested,Neutral,Somewhat interested,Somewhat interested
+172,Female,68,Location,NaN,NaN,NaN,Very interested,Somewhat interested,Somewhat interested,Not Interested at all
+173,Female,64,Location,NaN,NaN,NaN,Neutral,Not Interested at all,Neutral,Very interested
+174,Male,58,Location,NaN,NaN,NaN,Somewhat interested,Very interested,Not Interested at all,Neutral
+175,Male,41,NaN,NaN,Positive reviews,NaN,Not Interested at all,Not Interested at all,Somewhat uninterested,Somewhat uninterested
+176,Female,68,Location,NaN,NaN,NaN,Very interested,Somewhat interested,Neutral,Neutral
+177,Female,63,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Neutral,Not Interested at all,Somewhat uninterested
+178,Female,33,NaN,NaN,Positive reviews,NaN,Very interested,Somewhat interested,Somewhat uninterested,Somewhat interested
+179,Female,41,Location,NaN,NaN,NaN,Very interested,Very interested,Neutral,Very interested
+180,Male,73,NaN,Price,NaN,NaN,Somewhat interested,Somewhat interested,Very interested,Very interested
+181,Male,23,Location,NaN,NaN,NaN,Not Interested at all,Somewhat uninterested,Very interested,Somewhat interested
+182,Female,30,Location,NaN,NaN,NaN,Neutral,Somewhat interested,Very interested,Somewhat interested
+183,Female,57,NaN,NaN,NaN,Personalization,Not Interested at all,Somewhat uninterested,Neutral,Very interested
+184,Male,49,NaN,NaN,Positive reviews,NaN,Neutral,Not Interested at all,Not Interested at all,Neutral
+185,Male,42,NaN,Price,NaN,NaN,Not Interested at all,Not Interested at all,Not Interested at all,Somewhat interested
+186,Female,31,NaN,NaN,Positive reviews,NaN,Very interested,Somewhat interested,Very interested,Not Interested at all
+187,Female,57,Location,NaN,NaN,NaN,Not Interested at all,Somewhat interested,Very interested,Neutral
+188,Male,39,Location,NaN,NaN,NaN,Somewhat uninterested,Very interested,Neutral,Somewhat interested
+189,Female,75,NaN,NaN,Positive reviews,NaN,Not Interested at all,Somewhat uninterested,Somewhat interested,Neutral
+190,Female,68,NaN,Price,NaN,NaN,Somewhat uninterested,Neutral,Somewhat interested,Neutral
+191,Male,60,NaN,Price,NaN,NaN,Neutral,Not Interested at all,Somewhat uninterested,Somewhat uninterested
+192,Male,19,NaN,NaN,Positive reviews,NaN,Somewhat interested,Somewhat uninterested,Neutral,Somewhat uninterested
+193,Female,56,NaN,NaN,Positive reviews,NaN,Neutral,Somewhat uninterested,Not Interested at all,Somewhat interested
+194,Male,30,NaN,Price,NaN,NaN,Somewhat uninterested,Somewhat interested,Not Interested at all,Somewhat interested
+195,Male,36,NaN,NaN,NaN,Personalization,Not Interested at all,Very interested,Not Interested at all,Not Interested at all
+196,Male,62,NaN,Price,NaN,NaN,Not Interested at all,Somewhat interested,Neutral,Very interested
+197,Male,42,NaN,NaN,NaN,Personalization,Somewhat uninterested,Somewhat uninterested,Very interested,Somewhat interested
+198,Female,42,NaN,NaN,Positive reviews,NaN,Not Interested at all,Neutral,Somewhat uninterested,Very interested
+199,Female,72,NaN,NaN,Positive reviews,NaN,Not Interested at all,Somewhat uninterested,Neutral,Not Interested at all
+200,Female,63,NaN,NaN,NaN,Personalization,Somewhat uninterested,Somewhat interested,Neutral,Not Interested at all
+201,Female,27,Location,NaN,NaN,NaN,Somewhat uninterested,Neutral,Somewhat uninterested,Neutral
+202,Female,62,NaN,NaN,Positive reviews,NaN,Somewhat interested,Very interested,Not Interested at all,Somewhat uninterested
+203,Male,57,NaN,NaN,NaN,Personalization,Neutral,Somewhat uninterested,Not Interested at all,Somewhat uninterested
+204,Female,32,NaN,Price,NaN,NaN,Somewhat uninterested,Somewhat uninterested,Somewhat interested,Neutral
+205,Female,64,NaN,Price,NaN,NaN,Somewhat uninterested,Somewhat interested,Somewhat interested,Not Interested at all
+206,Male,29,NaN,NaN,Positive reviews,NaN,Neutral,Neutral,Very interested,Not Interested at all
+207,Male,63,Location,NaN,NaN,NaN,Somewhat interested,Somewhat interested,Somewhat uninterested,Not Interested at all
+208,Male,18,NaN,NaN,NaN,Personalization,Somewhat interested,Somewhat interested,Neutral,Somewhat uninterested
+209,Female,70,NaN,NaN,Positive reviews,NaN,Neutral,Somewhat uninterested,Not Interested at all,Somewhat uninterested
+210,Female,38,NaN,NaN,NaN,Personalization,Neutral,Neutral,Very interested,Somewhat interested
+211,Male,66,Location,NaN,NaN,NaN,Not Interested at all,Somewhat interested,Somewhat interested,Somewhat uninterested
+212,Female,71,NaN,NaN,Positive reviews,NaN,Not Interested at all,Neutral,Neutral,Very interested
+213,Male,63,NaN,Price,NaN,NaN,Very interested,Somewhat interested,Somewhat interested,Neutral
+214,Male,18,NaN,NaN,Positive reviews,NaN,Somewhat interested,Somewhat interested,Not Interested at all,Not Interested at all
+215,Female,53,NaN,NaN,Positive reviews,NaN,Not Interested at all,Somewhat interested,Somewhat uninterested,Somewhat interested
+216,Male,24,NaN,NaN,NaN,Personalization,Neutral,Neutral,Neutral,Somewhat uninterested
+217,Female,72,Location,NaN,NaN,NaN,Very interested,Somewhat interested,Very interested,Very interested
+218,Female,25,NaN,NaN,NaN,Personalization,Very interested,Very interested,Somewhat uninterested,Not Interested at all
+219,Male,20,NaN,NaN,NaN,Personalization,Not Interested at all,Somewhat uninterested,Neutral,Somewhat uninterested
+220,Female,63,NaN,NaN,Positive reviews,NaN,Not Interested at all,Very interested,Neutral,Somewhat uninterested
+221,Female,63,NaN,NaN,NaN,Personalization,Somewhat uninterested,Very interested,Neutral,Very interested
+222,Male,73,NaN,Price,NaN,NaN,Neutral,Very interested,Not Interested at all,Neutral
+223,Female,53,NaN,Price,NaN,NaN,Somewhat uninterested,Somewhat interested,Not Interested at all,Somewhat interested
+224,Female,41,NaN,Price,NaN,NaN,Somewhat interested,Somewhat interested,Very interested,Somewhat interested
+225,Male,72,NaN,Price,NaN,NaN,Somewhat uninterested,Neutral,Somewhat interested,Very interested
+226,Female,24,NaN,Price,NaN,NaN,Somewhat uninterested,Somewhat interested,Very interested,Very interested
+227,Male,63,NaN,NaN,NaN,Personalization,Somewhat uninterested,Somewhat interested,Very interested,Somewhat uninterested
+228,Female,32,NaN,NaN,Positive reviews,NaN,Not Interested at all,Neutral,Very interested,Somewhat interested
+229,Male,62,NaN,NaN,NaN,Personalization,Somewhat uninterested,Neutral,Somewhat interested,Somewhat uninterested
+230,Male,47,NaN,Price,NaN,NaN,Somewhat uninterested,Somewhat uninterested,Not Interested at all,Somewhat uninterested
+231,Male,69,NaN,Price,NaN,NaN,Very interested,Very interested,Somewhat uninterested,Somewhat interested
+232,Male,25,Location,NaN,NaN,NaN,Somewhat interested,Not Interested at all,Very interested,Very interested
+233,Male,60,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Very interested,Very interested,Very interested
+234,Female,27,NaN,NaN,Positive reviews,NaN,Neutral,Somewhat uninterested,Neutral,Neutral
+235,Male,19,NaN,Price,NaN,NaN,Somewhat interested,Not Interested at all,Very interested,Very interested
+236,Female,40,NaN,NaN,NaN,Personalization,Neutral,Somewhat uninterested,Very interested,Neutral
+237,Male,53,NaN,NaN,NaN,Personalization,Very interested,Somewhat interested,Not Interested at all,Neutral
+238,Female,49,NaN,NaN,NaN,Personalization,Somewhat interested,Somewhat uninterested,Neutral,Not Interested at all
+239,Female,38,Location,NaN,NaN,NaN,Very interested,Very interested,Somewhat interested,Very interested
+240,Female,63,NaN,NaN,NaN,Personalization,Very interested,Neutral,Somewhat interested,Neutral
+241,Female,66,NaN,Price,NaN,NaN,Somewhat interested,Somewhat interested,Very interested,Very interested
+242,Female,63,NaN,Price,NaN,NaN,Somewhat interested,Neutral,Neutral,Somewhat interested
+243,Male,43,NaN,Price,NaN,NaN,Neutral,Somewhat interested,Neutral,Not Interested at all
+244,Male,56,NaN,NaN,Positive reviews,NaN,Not Interested at all,Somewhat uninterested,Very interested,Very interested
+245,Female,69,Location,NaN,NaN,NaN,Not Interested at all,Very interested,Somewhat uninterested,Somewhat interested
+246,Male,25,NaN,Price,NaN,NaN,Neutral,Not Interested at all,Very interested,Not Interested at all
+247,Female,31,NaN,Price,NaN,NaN,Neutral,Very interested,Not Interested at all,Not Interested at all
+248,Male,64,NaN,NaN,Positive reviews,NaN,Very interested,Very interested,Somewhat interested,Not Interested at all
+249,Male,71,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Somewhat uninterested,Somewhat uninterested,Somewhat interested
+250,Female,57,NaN,NaN,Positive reviews,NaN,Neutral,Very interested,Neutral,Somewhat interested
+251,Female,21,NaN,NaN,NaN,Personalization,Very interested,Somewhat uninterested,Very interested,Not Interested at all
+252,Male,28,NaN,NaN,Positive reviews,NaN,Not Interested at all,Somewhat interested,Not Interested at all,Somewhat uninterested
+253,Male,56,NaN,NaN,NaN,Personalization,Not Interested at all,Not Interested at all,Very interested,Very interested
+254,Male,49,NaN,NaN,Positive reviews,NaN,Not Interested at all,Somewhat interested,Very interested,Somewhat interested
+255,Male,31,NaN,NaN,Positive reviews,NaN,Neutral,Somewhat uninterested,Somewhat interested,Somewhat interested
+256,Male,38,NaN,NaN,NaN,Personalization,Somewhat uninterested,Not Interested at all,Somewhat interested,Very interested
+257,Female,59,Location,NaN,NaN,NaN,Somewhat interested,Somewhat uninterested,Not Interested at all,Neutral
+258,Female,42,NaN,NaN,NaN,Personalization,Somewhat interested,Neutral,Not Interested at all,Very interested
+259,Male,22,Location,NaN,NaN,NaN,Very interested,Somewhat uninterested,Somewhat uninterested,Somewhat uninterested
+260,Male,30,Location,NaN,NaN,NaN,Somewhat uninterested,Somewhat uninterested,Neutral,Somewhat uninterested
+261,Male,37,NaN,Price,NaN,NaN,Neutral,Neutral,Neutral,Somewhat interested
+262,Male,53,NaN,Price,NaN,NaN,Somewhat uninterested,Somewhat uninterested,Somewhat uninterested,Very interested
+263,Female,24,NaN,NaN,Positive reviews,NaN,Very interested,Somewhat uninterested,Neutral,Neutral
+264,Female,66,NaN,NaN,Positive reviews,NaN,Very interested,Somewhat interested,Somewhat interested,Somewhat uninterested
+265,Male,43,Location,NaN,NaN,NaN,Not Interested at all,Very interested,Somewhat uninterested,Not Interested at all
+266,Male,70,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Somewhat uninterested,Not Interested at all,Very interested
+267,Male,60,NaN,NaN,NaN,Personalization,Not Interested at all,Neutral,Somewhat uninterested,Neutral
+268,Female,28,NaN,Price,NaN,NaN,Very interested,Very interested,Neutral,Very interested
+269,Male,74,Location,NaN,NaN,NaN,Neutral,Somewhat interested,Not Interested at all,Very interested
+270,Female,70,NaN,NaN,Positive reviews,NaN,Not Interested at all,Neutral,Very interested,Somewhat uninterested
+271,Male,30,NaN,Price,NaN,NaN,Somewhat uninterested,Neutral,Very interested,Very interested
+272,Female,67,NaN,Price,NaN,NaN,Somewhat interested,Very interested,Very interested,Very interested
+273,Male,62,NaN,Price,NaN,NaN,Neutral,Very interested,Very interested,Somewhat interested
+274,Female,41,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Somewhat interested,Not Interested at all,Very interested
+275,Female,61,NaN,Price,NaN,NaN,Somewhat uninterested,Very interested,Somewhat uninterested,Neutral
+276,Female,52,NaN,Price,NaN,NaN,Neutral,Neutral,Very interested,Neutral
+277,Female,58,NaN,Price,NaN,NaN,Somewhat uninterested,Somewhat uninterested,Not Interested at all,Neutral
+278,Female,60,NaN,NaN,Positive reviews,NaN,Not Interested at all,Not Interested at all,Not Interested at all,Neutral
+279,Female,24,NaN,Price,NaN,NaN,Very interested,Very interested,Very interested,Very interested
+280,Female,70,Location,NaN,NaN,NaN,Not Interested at all,Somewhat uninterested,Neutral,Not Interested at all
+281,Male,59,NaN,NaN,NaN,Personalization,Not Interested at all,Neutral,Very interested,Very interested
+282,Male,62,NaN,NaN,NaN,Personalization,Not Interested at all,Very interested,Somewhat interested,Somewhat interested
+283,Female,60,Location,NaN,NaN,NaN,Somewhat uninterested,Not Interested at all,Not Interested at all,Neutral
+284,Female,57,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Somewhat interested,Very interested,Somewhat uninterested
+285,Male,49,NaN,NaN,Positive reviews,NaN,Somewhat interested,Somewhat interested,Very interested,Neutral
+286,Female,56,Location,NaN,NaN,NaN,Somewhat uninterested,Somewhat interested,Somewhat interested,Very interested
+287,Male,60,NaN,Price,NaN,NaN,Somewhat interested,Very interested,Neutral,Somewhat uninterested
+288,Male,63,NaN,NaN,NaN,Personalization,Somewhat interested,Neutral,Somewhat uninterested,Somewhat interested
+289,Female,19,NaN,Price,NaN,NaN,Somewhat interested,Somewhat interested,Not Interested at all,Somewhat uninterested
+290,Male,70,NaN,NaN,NaN,Personalization,Not Interested at all,Somewhat uninterested,Somewhat uninterested,Not Interested at all
+291,Female,34,Location,NaN,NaN,NaN,Neutral,Somewhat uninterested,Somewhat interested,Neutral
+292,Female,54,Location,NaN,NaN,NaN,Very interested,Neutral,Somewhat uninterested,Not Interested at all
+293,Female,46,NaN,NaN,Positive reviews,NaN,Not Interested at all,Somewhat interested,Somewhat uninterested,Somewhat interested
+294,Male,34,NaN,Price,NaN,NaN,Somewhat interested,Neutral,Neutral,Somewhat interested
+295,Female,64,NaN,NaN,Positive reviews,NaN,Very interested,Somewhat uninterested,Somewhat interested,Neutral
+296,Female,48,NaN,Price,NaN,NaN,Very interested,Not Interested at all,Neutral,Very interested
+297,Female,46,NaN,NaN,NaN,Personalization,Not Interested at all,Very interested,Somewhat interested,Somewhat interested
+298,Female,21,NaN,NaN,NaN,Personalization,Very interested,Somewhat interested,Very interested,Somewhat uninterested
+299,Male,25,NaN,NaN,NaN,Personalization,Neutral,Neutral,Somewhat interested,Somewhat uninterested
+300,Female,56,NaN,NaN,NaN,Personalization,Not Interested at all,Very interested,Not Interested at all,Somewhat interested
+301,Male,42,NaN,NaN,Positive reviews,NaN,Not Interested at all,Not Interested at all,Somewhat uninterested,Very interested
+302,Male,75,NaN,NaN,NaN,Personalization,Very interested,Somewhat interested,Very interested,Somewhat interested
+303,Male,48,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Neutral,Very interested,Neutral
+304,Male,49,Location,NaN,NaN,NaN,Not Interested at all,Not Interested at all,Not Interested at all,Somewhat interested
+305,Male,62,NaN,Price,NaN,NaN,Neutral,Very interested,Not Interested at all,Very interested
+306,Male,48,Location,NaN,NaN,NaN,Somewhat uninterested,Not Interested at all,Not Interested at all,Somewhat uninterested
+307,Female,61,Location,NaN,NaN,NaN,Somewhat uninterested,Neutral,Somewhat uninterested,Neutral
+308,Male,41,Location,NaN,NaN,NaN,Somewhat uninterested,Somewhat interested,Somewhat uninterested,Not Interested at all
+309,Female,63,NaN,Price,NaN,NaN,Somewhat interested,Very interested,Neutral,Very interested
+310,Male,27,Location,NaN,NaN,NaN,Somewhat uninterested,Not Interested at all,Somewhat uninterested,Not Interested at all
+311,Female,71,NaN,NaN,NaN,Personalization,Very interested,Neutral,Very interested,Somewhat uninterested
+312,Female,68,NaN,NaN,Positive reviews,NaN,Somewhat interested,Neutral,Somewhat interested,Very interested
+313,Female,59,NaN,NaN,NaN,Personalization,Somewhat interested,Somewhat interested,Not Interested at all,Neutral
+314,Female,49,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Very interested,Somewhat uninterested,Neutral
+315,Male,32,NaN,Price,NaN,NaN,Somewhat uninterested,Somewhat uninterested,Somewhat interested,Somewhat interested
+316,Male,46,Location,NaN,NaN,NaN,Somewhat interested,Somewhat interested,Not Interested at all,Somewhat interested
+317,Male,28,NaN,NaN,NaN,Personalization,Not Interested at all,Neutral,Neutral,Not Interested at all
+318,Female,44,NaN,NaN,Positive reviews,NaN,Very interested,Neutral,Neutral,Very interested
+319,Female,44,NaN,NaN,NaN,Personalization,Not Interested at all,Neutral,Neutral,Neutral
+320,Male,47,Location,NaN,NaN,NaN,Very interested,Not Interested at all,Neutral,Not Interested at all
+321,Male,55,NaN,Price,NaN,NaN,Somewhat uninterested,Somewhat uninterested,Neutral,Not Interested at all
+322,Male,33,NaN,NaN,NaN,Personalization,Not Interested at all,Somewhat interested,Neutral,Neutral
+323,Female,45,NaN,Price,NaN,NaN,Not Interested at all,Somewhat interested,Somewhat interested,Not Interested at all
+324,Female,55,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Somewhat interested,Very interested,Very interested
+325,Female,64,NaN,NaN,NaN,Personalization,Somewhat interested,Somewhat uninterested,Somewhat interested,Very interested
+326,Male,37,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Somewhat uninterested,Very interested,Somewhat interested
+327,Male,69,NaN,NaN,Positive reviews,NaN,Not Interested at all,Somewhat uninterested,Somewhat uninterested,Somewhat interested
+328,Female,43,Location,NaN,NaN,NaN,Very interested,Not Interested at all,Very interested,Somewhat uninterested
+329,Female,73,NaN,NaN,NaN,Personalization,Not Interested at all,Somewhat interested,Somewhat interested,Neutral
+330,Female,60,Location,NaN,NaN,NaN,Neutral,Somewhat interested,Neutral,Somewhat uninterested
+331,Female,46,NaN,NaN,NaN,Personalization,Somewhat interested,Very interested,Somewhat uninterested,Somewhat uninterested
+332,Male,75,NaN,Price,NaN,NaN,Not Interested at all,Somewhat uninterested,Somewhat interested,Somewhat interested
+333,Male,56,NaN,Price,NaN,NaN,Somewhat uninterested,Neutral,Not Interested at all,Somewhat interested
+334,Male,33,Location,NaN,NaN,NaN,Neutral,Somewhat interested,Somewhat uninterested,Somewhat interested
+335,Female,41,NaN,NaN,NaN,Personalization,Somewhat uninterested,Neutral,Not Interested at all,Neutral
+336,Female,44,Location,NaN,NaN,NaN,Neutral,Very interested,Not Interested at all,Somewhat uninterested
+337,Male,74,Location,NaN,NaN,NaN,Somewhat uninterested,Somewhat uninterested,Very interested,Neutral
+338,Female,75,NaN,Price,NaN,NaN,Somewhat interested,Somewhat interested,Neutral,Somewhat uninterested
+339,Female,62,Location,NaN,NaN,NaN,Somewhat uninterested,Somewhat uninterested,Very interested,Somewhat interested
+340,Male,24,NaN,Price,NaN,NaN,Not Interested at all,Somewhat uninterested,Not Interested at all,Somewhat interested
+341,Female,42,NaN,Price,NaN,NaN,Neutral,Not Interested at all,Neutral,Somewhat uninterested
+342,Female,24,Location,NaN,NaN,NaN,Somewhat uninterested,Not Interested at all,Very interested,Very interested
+343,Female,67,NaN,NaN,Positive reviews,NaN,Somewhat interested,Neutral,Somewhat uninterested,Not Interested at all
+344,Male,70,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Neutral,Very interested,Somewhat interested
+345,Male,72,NaN,Price,NaN,NaN,Not Interested at all,Somewhat uninterested,Somewhat uninterested,Very interested
+346,Male,48,NaN,NaN,NaN,Personalization,Very interested,Very interested,Neutral,Somewhat interested
+347,Male,58,NaN,Price,NaN,NaN,Not Interested at all,Not Interested at all,Not Interested at all,Very interested
+348,Male,23,NaN,NaN,NaN,Personalization,Not Interested at all,Very interested,Neutral,Not Interested at all
+349,Female,45,Location,NaN,NaN,NaN,Very interested,Very interested,Neutral,Very interested
+350,Female,28,Location,NaN,NaN,NaN,Not Interested at all,Neutral,Somewhat interested,Very interested
+351,Female,73,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Neutral,Very interested,Not Interested at all
+352,Female,33,Location,NaN,NaN,NaN,Very interested,Somewhat uninterested,Very interested,Somewhat interested
+353,Male,53,Location,NaN,NaN,NaN,Very interested,Somewhat interested,Somewhat uninterested,Very interested
+354,Female,43,Location,NaN,NaN,NaN,Very interested,Somewhat interested,Neutral,Very interested
+355,Male,65,NaN,NaN,NaN,Personalization,Somewhat interested,Very interested,Very interested,Not Interested at all
+356,Female,18,NaN,Price,NaN,NaN,Very interested,Not Interested at all,Somewhat uninterested,Not Interested at all
+357,Female,55,Location,NaN,NaN,NaN,Very interested,Somewhat interested,Neutral,Somewhat interested
+358,Female,45,Location,NaN,NaN,NaN,Very interested,Not Interested at all,Very interested,Somewhat uninterested
+359,Female,44,NaN,NaN,Positive reviews,NaN,Somewhat interested,Somewhat uninterested,Somewhat uninterested,Not Interested at all
+360,Female,45,NaN,NaN,NaN,Personalization,Not Interested at all,Somewhat interested,Very interested,Somewhat interested
+361,Female,66,NaN,NaN,Positive reviews,NaN,Very interested,Very interested,Somewhat uninterested,Somewhat interested
+362,Male,63,NaN,NaN,Positive reviews,NaN,Neutral,Somewhat interested,Not Interested at all,Not Interested at all
+363,Female,19,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Very interested,Very interested,Somewhat interested
+364,Male,44,NaN,Price,NaN,NaN,Very interested,Somewhat interested,Neutral,Not Interested at all
+365,Male,38,NaN,NaN,Positive reviews,NaN,Neutral,Very interested,Not Interested at all,Somewhat interested
+366,Male,47,NaN,NaN,NaN,Personalization,Not Interested at all,Not Interested at all,Neutral,Somewhat uninterested
+367,Female,55,NaN,NaN,NaN,Personalization,Very interested,Very interested,Not Interested at all,Somewhat interested
+368,Female,71,Location,NaN,NaN,NaN,Neutral,Not Interested at all,Somewhat uninterested,Not Interested at all
+369,Female,30,NaN,NaN,NaN,Personalization,Somewhat interested,Very interested,Neutral,Neutral
+370,Female,35,NaN,NaN,Positive reviews,NaN,Neutral,Very interested,Not Interested at all,Neutral
+371,Female,40,Location,NaN,NaN,NaN,Not Interested at all,Very interested,Somewhat interested,Not Interested at all
+372,Male,47,Location,NaN,NaN,NaN,Somewhat uninterested,Very interested,Somewhat interested,Somewhat interested
+373,Female,73,NaN,NaN,Positive reviews,NaN,Neutral,Very interested,Very interested,Not Interested at all
+374,Female,20,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Not Interested at all,Somewhat uninterested,Not Interested at all
+375,Male,54,NaN,NaN,Positive reviews,NaN,Very interested,Very interested,Somewhat interested,Somewhat uninterested
+376,Male,28,NaN,NaN,Positive reviews,NaN,Neutral,Neutral,Somewhat interested,Somewhat interested
+377,Female,22,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Not Interested at all,Somewhat interested,Not Interested at all
+378,Male,20,NaN,NaN,Positive reviews,NaN,Neutral,Neutral,Somewhat interested,Not Interested at all
+379,Male,52,NaN,NaN,NaN,Personalization,Neutral,Not Interested at all,Not Interested at all,Somewhat interested
+380,Male,73,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Somewhat uninterested,Not Interested at all,Very interested
+381,Female,25,NaN,NaN,NaN,Personalization,Very interested,Somewhat interested,Somewhat uninterested,Not Interested at all
+382,Female,37,NaN,NaN,Positive reviews,NaN,Not Interested at all,Not Interested at all,Very interested,Somewhat interested
+383,Female,34,NaN,NaN,Positive reviews,NaN,Very interested,Neutral,Not Interested at all,Somewhat uninterested
+384,Female,51,Location,NaN,NaN,NaN,Neutral,Somewhat interested,Very interested,Somewhat interested
+385,Male,56,NaN,Price,NaN,NaN,Neutral,Neutral,Somewhat interested,Somewhat interested
+386,Male,53,NaN,NaN,Positive reviews,NaN,Somewhat interested,Very interested,Not Interested at all,Very interested
+387,Male,33,Location,NaN,NaN,NaN,Very interested,Somewhat interested,Neutral,Somewhat uninterested
+388,Female,20,NaN,NaN,NaN,Personalization,Somewhat interested,Not Interested at all,Very interested,Somewhat uninterested
+389,Male,33,Location,NaN,NaN,NaN,Not Interested at all,Somewhat uninterested,Neutral,Neutral
+390,Female,33,Location,NaN,NaN,NaN,Not Interested at all,Very interested,Not Interested at all,Neutral
+391,Female,51,Location,NaN,NaN,NaN,Not Interested at all,Very interested,Not Interested at all,Not Interested at all
+392,Female,32,NaN,NaN,Positive reviews,NaN,Very interested,Somewhat interested,Somewhat interested,Somewhat uninterested
+393,Male,34,Location,NaN,NaN,NaN,Not Interested at all,Not Interested at all,Very interested,Neutral
+394,Female,62,NaN,Price,NaN,NaN,Somewhat uninterested,Neutral,Neutral,Very interested
+395,Male,35,NaN,Price,NaN,NaN,Somewhat interested,Somewhat uninterested,Very interested,Somewhat uninterested
+396,Female,27,NaN,NaN,NaN,Personalization,Neutral,Not Interested at all,Very interested,Somewhat uninterested
+397,Male,29,Location,NaN,NaN,NaN,Not Interested at all,Somewhat interested,Somewhat uninterested,Somewhat uninterested
+398,Female,40,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Neutral,Somewhat interested,Very interested
+399,Female,69,NaN,NaN,Positive reviews,NaN,Somewhat interested,Somewhat interested,Not Interested at all,Very interested
+400,Female,42,Location,NaN,NaN,NaN,Neutral,Somewhat uninterested,Somewhat uninterested,Very interested
+401,Male,34,NaN,NaN,Positive reviews,NaN,Neutral,Somewhat uninterested,Somewhat interested,Not Interested at all
+402,Female,18,NaN,Price,NaN,NaN,Somewhat interested,Not Interested at all,Somewhat uninterested,Neutral
+403,Male,68,NaN,Price,NaN,NaN,Not Interested at all,Somewhat uninterested,Very interested,Somewhat uninterested
+404,Male,20,Location,NaN,NaN,NaN,Somewhat uninterested,Very interested,Somewhat uninterested,Neutral
+405,Male,40,NaN,Price,NaN,NaN,Neutral,Somewhat uninterested,Somewhat interested,Very interested
+406,Female,30,NaN,NaN,NaN,Personalization,Neutral,Somewhat interested,Somewhat uninterested,Neutral
+407,Male,25,NaN,NaN,NaN,Personalization,Not Interested at all,Very interested,Somewhat uninterested,Very interested
+408,Female,45,NaN,Price,NaN,NaN,Very interested,Very interested,Neutral,Neutral
+409,Male,51,NaN,Price,NaN,NaN,Somewhat interested,Somewhat uninterested,Neutral,Somewhat interested
+410,Female,20,NaN,NaN,NaN,Personalization,Somewhat interested,Very interested,Not Interested at all,Very interested
+411,Female,27,Location,NaN,NaN,NaN,Not Interested at all,Somewhat uninterested,Very interested,Somewhat interested
+412,Female,37,NaN,NaN,NaN,Personalization,Not Interested at all,Very interested,Not Interested at all,Neutral
+413,Female,63,NaN,NaN,NaN,Personalization,Not Interested at all,Somewhat uninterested,Somewhat interested,Very interested
+414,Female,69,Location,NaN,NaN,NaN,Somewhat uninterested,Very interested,Somewhat uninterested,Somewhat interested
+415,Female,24,Location,NaN,NaN,NaN,Somewhat interested,Very interested,Not Interested at all,Somewhat uninterested
+416,Female,31,NaN,NaN,Positive reviews,NaN,Neutral,Somewhat uninterested,Neutral,Neutral
+417,Female,19,NaN,NaN,NaN,Personalization,Somewhat interested,Very interested,Neutral,Not Interested at all
+418,Male,27,NaN,Price,NaN,NaN,Neutral,Somewhat uninterested,Somewhat interested,Somewhat uninterested
+419,Female,47,NaN,Price,NaN,NaN,Very interested,Somewhat uninterested,Very interested,Neutral
+420,Male,66,NaN,NaN,NaN,Personalization,Not Interested at all,Neutral,Neutral,Not Interested at all
+421,Male,29,NaN,NaN,Positive reviews,NaN,Somewhat interested,Not Interested at all,Somewhat interested,Somewhat interested
+422,Female,40,Location,NaN,NaN,NaN,Somewhat uninterested,Somewhat uninterested,Somewhat uninterested,Somewhat interested
+423,Female,43,NaN,Price,NaN,NaN,Neutral,Somewhat interested,Somewhat interested,Somewhat uninterested
+424,Male,71,NaN,NaN,Positive reviews,NaN,Neutral,Not Interested at all,Not Interested at all,Not Interested at all
+425,Male,40,NaN,NaN,NaN,Personalization,Somewhat interested,Neutral,Not Interested at all,Not Interested at all
+426,Male,20,NaN,Price,NaN,NaN,Somewhat interested,Neutral,Very interested,Very interested
+427,Female,37,NaN,NaN,NaN,Personalization,Somewhat uninterested,Neutral,Neutral,Neutral
+428,Male,60,NaN,NaN,Positive reviews,NaN,Not Interested at all,Neutral,Somewhat uninterested,Very interested
+429,Male,54,NaN,NaN,Positive reviews,NaN,Neutral,Neutral,Somewhat uninterested,Neutral
+430,Female,28,NaN,Price,NaN,NaN,Very interested,Somewhat uninterested,Not Interested at all,Somewhat uninterested
+431,Female,68,NaN,NaN,NaN,Personalization,Very interested,Not Interested at all,Somewhat interested,Not Interested at all
+432,Male,63,NaN,NaN,Positive reviews,NaN,Very interested,Somewhat interested,Neutral,Not Interested at all
+433,Male,27,Location,NaN,NaN,NaN,Somewhat interested,Somewhat uninterested,Neutral,Very interested
+434,Female,49,Location,NaN,NaN,NaN,Very interested,Neutral,Not Interested at all,Very interested
+435,Female,36,NaN,NaN,NaN,Personalization,Not Interested at all,Somewhat uninterested,Very interested,Not Interested at all
+436,Male,73,NaN,NaN,NaN,Personalization,Somewhat interested,Neutral,Very interested,Not Interested at all
+437,Female,72,NaN,Price,NaN,NaN,Neutral,Somewhat uninterested,Not Interested at all,Somewhat uninterested
+438,Female,75,Location,NaN,NaN,NaN,Neutral,Very interested,Not Interested at all,Neutral
+439,Female,68,Location,NaN,NaN,NaN,Neutral,Very interested,Neutral,Not Interested at all
+440,Female,23,NaN,Price,NaN,NaN,Neutral,Very interested,Somewhat uninterested,Neutral
+441,Male,54,NaN,NaN,Positive reviews,NaN,Very interested,Neutral,Not Interested at all,Very interested
+442,Male,74,NaN,NaN,Positive reviews,NaN,Somewhat interested,Very interested,Somewhat interested,Somewhat interested
+443,Male,64,NaN,NaN,NaN,Personalization,Not Interested at all,Somewhat interested,Somewhat uninterested,Not Interested at all
+444,Male,32,NaN,NaN,Positive reviews,NaN,Not Interested at all,Very interested,Very interested,Not Interested at all
+445,Male,28,NaN,NaN,NaN,Personalization,Somewhat uninterested,Somewhat interested,Neutral,Somewhat uninterested
+446,Male,65,NaN,NaN,Positive reviews,NaN,Very interested,Not Interested at all,Very interested,Neutral
+447,Male,65,NaN,NaN,Positive reviews,NaN,Neutral,Somewhat uninterested,Somewhat interested,Very interested
+448,Male,34,Location,NaN,NaN,NaN,Not Interested at all,Somewhat interested,Somewhat uninterested,Neutral
+449,Female,56,NaN,Price,NaN,NaN,Neutral,Neutral,Not Interested at all,Very interested
+450,Female,71,NaN,NaN,Positive reviews,NaN,Somewhat interested,Neutral,Not Interested at all,Neutral
+451,Male,37,Location,NaN,NaN,NaN,Not Interested at all,Somewhat interested,Somewhat uninterested,Neutral
+452,Male,34,Location,NaN,NaN,NaN,Somewhat uninterested,Very interested,Very interested,Very interested
+453,Male,60,Location,NaN,NaN,NaN,Somewhat uninterested,Neutral,Somewhat uninterested,Very interested
+454,Male,21,Location,NaN,NaN,NaN,Very interested,Not Interested at all,Somewhat interested,Somewhat interested
+455,Male,68,NaN,NaN,NaN,Personalization,Neutral,Not Interested at all,Somewhat interested,Neutral
+456,Female,26,NaN,Price,NaN,NaN,Very interested,Not Interested at all,Very interested,Neutral
+457,Female,67,Location,NaN,NaN,NaN,Very interested,Neutral,Somewhat interested,Somewhat interested
+458,Female,60,NaN,NaN,Positive reviews,NaN,Somewhat interested,Neutral,Very interested,Neutral
+459,Male,60,NaN,NaN,Positive reviews,NaN,Very interested,Not Interested at all,Somewhat interested,Neutral
+460,Male,25,Location,NaN,NaN,NaN,Not Interested at all,Somewhat interested,Not Interested at all,Not Interested at all
+461,Female,31,NaN,NaN,NaN,Personalization,Somewhat uninterested,Neutral,Somewhat interested,Somewhat uninterested
+462,Female,61,NaN,NaN,Positive reviews,NaN,Not Interested at all,Very interested,Somewhat uninterested,Somewhat uninterested
+463,Male,45,NaN,Price,NaN,NaN,Somewhat uninterested,Not Interested at all,Neutral,Neutral
+464,Male,34,NaN,NaN,Positive reviews,NaN,Not Interested at all,Very interested,Not Interested at all,Not Interested at all
+465,Male,39,Location,NaN,NaN,NaN,Not Interested at all,Very interested,Not Interested at all,Somewhat uninterested
+466,Male,21,NaN,NaN,NaN,Personalization,Not Interested at all,Not Interested at all,Not Interested at all,Very interested
+467,Female,58,NaN,NaN,NaN,Personalization,Somewhat uninterested,Neutral,Not Interested at all,Very interested
+468,Female,45,NaN,NaN,Positive reviews,NaN,Neutral,Not Interested at all,Very interested,Somewhat interested
+469,Male,66,NaN,Price,NaN,NaN,Somewhat uninterested,Somewhat interested,Neutral,Somewhat interested
+470,Male,66,NaN,NaN,NaN,Personalization,Not Interested at all,Somewhat interested,Very interested,Very interested
+471,Female,52,NaN,NaN,NaN,Personalization,Somewhat interested,Somewhat uninterested,Somewhat interested,Somewhat uninterested
+472,Male,62,NaN,NaN,NaN,Personalization,Neutral,Neutral,Somewhat interested,Neutral
+473,Male,28,NaN,Price,NaN,NaN,Not Interested at all,Somewhat interested,Not Interested at all,Somewhat uninterested
+474,Male,20,NaN,NaN,NaN,Personalization,Somewhat interested,Somewhat uninterested,Somewhat interested,Somewhat interested
+475,Male,72,NaN,NaN,NaN,Personalization,Somewhat interested,Not Interested at all,Not Interested at all,Somewhat interested
+476,Male,49,NaN,Price,NaN,NaN,Somewhat interested,Not Interested at all,Somewhat uninterested,Neutral
+477,Female,55,NaN,Price,NaN,NaN,Very interested,Somewhat uninterested,Neutral,Not Interested at all
+478,Female,24,NaN,NaN,NaN,Personalization,Neutral,Not Interested at all,Very interested,Neutral
+479,Male,45,NaN,NaN,Positive reviews,NaN,Neutral,Somewhat uninterested,Somewhat uninterested,Very interested
+480,Male,74,NaN,Price,NaN,NaN,Not Interested at all,Neutral,Very interested,Somewhat interested
+481,Female,31,NaN,NaN,Positive reviews,NaN,Not Interested at all,Very interested,Somewhat uninterested,Neutral
+482,Female,26,NaN,Price,NaN,NaN,Neutral,Not Interested at all,Somewhat interested,Somewhat uninterested
+483,Female,55,NaN,NaN,NaN,Personalization,Neutral,Not Interested at all,Neutral,Very interested
+484,Female,63,NaN,NaN,NaN,Personalization,Somewhat interested,Not Interested at all,Very interested,Neutral
+485,Female,52,NaN,Price,NaN,NaN,Neutral,Somewhat uninterested,Somewhat uninterested,Somewhat interested
+486,Male,65,NaN,NaN,Positive reviews,NaN,Very interested,Neutral,Somewhat uninterested,Very interested
+487,Male,65,NaN,NaN,Positive reviews,NaN,Somewhat uninterested,Somewhat interested,Somewhat interested,Somewhat uninterested
+488,Female,31,NaN,Price,NaN,NaN,Very interested,Very interested,Neutral,Neutral
+489,Female,72,Location,NaN,NaN,NaN,Neutral,Somewhat uninterested,Neutral,Very interested
+490,Male,24,NaN,Price,NaN,NaN,Very interested,Neutral,Not Interested at all,Somewhat interested
+491,Female,59,NaN,Price,NaN,NaN,Very interested,Very interested,Not Interested at all,Not Interested at all
+492,Male,69,Location,NaN,NaN,NaN,Somewhat interested,Very interested,Very interested,Neutral
+493,Female,45,NaN,Price,NaN,NaN,Very interested,Somewhat interested,Neutral,Neutral
+494,Male,73,Location,NaN,NaN,NaN,Somewhat uninterested,Not Interested at all,Somewhat interested,Very interested
+495,Female,35,NaN,NaN,Positive reviews,NaN,Not Interested at all,Somewhat interested,Neutral,Not Interested at all
+496,Male,22,NaN,NaN,Positive reviews,NaN,Neutral,Somewhat interested,Somewhat interested,Somewhat uninterested
+497,Male,64,NaN,NaN,NaN,Personalization,Not Interested at all,Not Interested at all,Very interested,Neutral
+498,Male,68,Location,NaN,NaN,NaN,Very interested,Neutral,Neutral,Somewhat interested
+499,Female,59,Location,NaN,NaN,NaN,Neutral,Somewhat interested,Very interested,Not Interested at all
+500,Female,55,NaN,Price,NaN,NaN,Somewhat interested,Neutral,Very interested,Very interested
