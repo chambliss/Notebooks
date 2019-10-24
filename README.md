@@ -1,5 +1,5 @@
 # Notebooks
-This is the **old** repo for my newbie data science projects, last updated in spring of 2019. Please check out pinned repositories such as [Multilingual NER](https://github.com/chambliss/Multilingual_NER) for a more up-to-date representation of what I'm working on.
+This is the **old** repo for my newbie data science projects, last updated in spring of 2019. My skills and code have improved significantly since then. :) Please check out pinned repositories such as [Multilingual NER](https://github.com/chambliss/Multilingual_NER) for a more up-to-date representation of what I'm working on.
 
 # [Word2Vec News Analysis and Regression w/ XGBoost](https://nbviewer.jupyter.org/github/chambliss/Notebooks/blob/master/Word2Vec_News_Analysis.ipynb)
 
